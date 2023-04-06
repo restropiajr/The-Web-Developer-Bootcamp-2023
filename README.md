@@ -7,3 +7,4 @@ Tutorials
 
 Projects
 - [Price Table](https://github.com/restropiajr/The-Web-Developer-Bootcamp-2023/tree/master/Price%20Table%20Project)
+- [Museum of Candy (CSS Bootstrap)](https://github.com/restropiajr/The-Web-Developer-Bootcamp-2023/tree/master/Museum%20Candy%20Project)
